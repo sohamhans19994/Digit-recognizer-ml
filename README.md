@@ -1,2 +1,1 @@
-This is a Digit Recognizer Model based on MNIST dataset.
-It achieves 99.7% test accuracy
+A model aimed towards machines recognizing handwritten digits. The data used for training this model is obtained from the MNIST dataset. The model is based on a convolutional neural network framework implemented using Keras, with TensorFlow Backend. The model is derived by simplifying the popular VGG-16 framework, and the hyperparameters are optimized. The final model achieves a 99.7% accuracy on the test set.   
